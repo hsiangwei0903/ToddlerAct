@@ -3,7 +3,7 @@
 <!-- TODO:  add ToddlerAct Paper Link-->
 <div id="wrapper" align="center">
 <figure>
-  <img src="/home/ciel/Desktop/pyskl-etri/pyskl/demo_output.gif" width="520px">&emsp;
+  <img src="demo_output.gif" width="520px">&emsp;
 </figure>
 </div>
 
