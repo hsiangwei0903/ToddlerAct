@@ -10,7 +10,7 @@
 ## Introduction
 In paper [ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment](), we propose a dataset, named TodderAct, for toddler action recognition, along with baseline performance output by our image-based [CLIP](https://arxiv.org/pdf/2103.00020)+MLP model and state-of-the-art [PoseConv3D](https://arxiv.org/abs/2104.13586) model.
 
-In this project, we use [PoseConv3D](https://arxiv.org/abs/2104.13586) to conduct skeleton-based action recognition on our ToddlerAct dataset. The model is pre-trained on the [K400](https://arxiv.org/pdf/1705.06950v1) dataset and then fine-tuned on ToddlerAct dataset for 10 epochs.
+In this project, we use our fine-tuned PoseConv3D ([weight](https://drive.google.com/drive/folders/1wc_VYEkxowexPDemOaJMFp_xYfhBjGDv)) to conduct skeleton-based action recognition on our ToddlerAct dataset. The model is pre-trained on the [K400](https://arxiv.org/pdf/1705.06950v1) dataset and then fine-tuned on ToddlerAct dataset for 10 epochs.
 
 ## Models
 - Detector: [Fast-RCNN](https://arxiv.org/abs/1506.01497) ([COCO](https://cocodataset.org/#home) pre-trained)
