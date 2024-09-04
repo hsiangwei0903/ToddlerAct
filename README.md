@@ -31,7 +31,7 @@ In this project, we use our fine-tuned PoseConv3D ([weight](https://drive.google
     ```
 
 ## Model Preparation
-- We provided the fine-tuned PoseC3D [here](https://drive.google.com/drive/folders/18q9fkHnymgM816X2KrQ1k611WHATOmxd), please download the checkpoint to conduct inference.
+- We provided the fine-tuned PoseC3D [here](https://drive.google.com/drive/folders/1wc_VYEkxowexPDemOaJMFp_xYfhBjGDv), please download the checkpoint to conduct inference.
 - The human detection model and human pose estimation model should be downloaded automatically when running the demo.
 
 ## Demo on custom dataset
