@@ -1,4 +1,4 @@
-# Project Name
+# Baseline for ToddlerAct
 
 <!-- TODO:  add ToddlerAct Paper Link-->
 <div id="wrapper" align="center">
